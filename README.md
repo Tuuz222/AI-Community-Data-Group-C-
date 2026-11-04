@@ -9,5 +9,5 @@ We will each work independently within these documents and combine them at the e
 
 * [Cam]()
 * [Linnea]()
-* [Jazz]()
+* [Jazz](https://github.com/Tuuz222/AI-Community-Data-Group-C-/blob/44f7121d3611281d1daf8210a4369b3c34efbd5b/AI_jazz.qmd)
 * [Carolina]()
