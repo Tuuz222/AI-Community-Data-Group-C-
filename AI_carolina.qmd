@@ -1,0 +1,25 @@
+---
+title: "AI_Carolina"
+author: "Carolina"
+format: html
+editor: visual
+---
+## AI Community Intertidal Clean up
+
+Group Questions:
+Species occurrence: For a selected taxon or group, where and when was it recorded? 
+Make an occurrence or detection-frequency summary, explicitly distinguishing absence from not surveyed and accounting for sampling effort.
+
+## Load Libraries
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(dplyr)
+library(ggplot2)
+library(here)
+library(stringr)
+library(maps)
+library(mapdata)
+library(mapproj)
+```
