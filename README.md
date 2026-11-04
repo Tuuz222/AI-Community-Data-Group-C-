@@ -10,4 +10,4 @@ We will each work independently within these documents and combine them at the e
 * [Cam](https://github.com/Tuuz222/AI-Community-Data-Group-C-/blob/314ce83feb4063df3cd5e8743df8a72879ce33cd/AI_cam.qmd)
 * [Linnea]()
 * [Jazz](https://github.com/Tuuz222/AI-Community-Data-Group-C-/blob/44f7121d3611281d1daf8210a4369b3c34efbd5b/AI_jazz.qmd)
-* [Carolina]()
+* [Carolina](https://github.com/Tuuz222/AI-Community-Data-Group-C-/blob/bf7ce436bbd35681970247bdaa3c017ca9536aea/AI_carolina.qmd)
