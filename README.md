@@ -7,7 +7,7 @@ Species occurrence: For a selected taxon or group, where and when was it recorde
 
 We will each work independently within these documents and combine them at the end
 
-(Cam)[]
-(Linnea)[]
-(Jazz)[]
-(Carolina)[]
+* [Cam]()
+* [Linnea]()
+* [Jazz]()
+* [Carolina]()
